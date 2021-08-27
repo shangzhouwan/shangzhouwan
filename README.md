@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shangzhouwan
 - 👀 I’m interested in Frontend
+- 🌱 I’m currently using angular.
 - 🌱 I’m currently learning react and vue.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... shangzhouwan@gmail.com
